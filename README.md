@@ -34,30 +34,21 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MinHiuLe&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats" 
-    width="48%" 
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=MinHiuLe&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
   />
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MinHiuLe&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
-    width="48%" 
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinHiuLe&layout=compact&theme=radical&hide_border=true"
   />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinHiuLe&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    width="40%" 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MinHiuLe&theme=radical&hide_border=true"
   />
-
-</div>
+</p>
