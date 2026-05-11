@@ -35,14 +35,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinHiuLe&theme=radical&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinHiuLe&theme=radical&hide_border=true" alt="GitHub streak" width="48%" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinHiuLe&theme=radical&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" width="50%" />
-</div>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MinHiuLe&icon=0&color=0" alt="Visit Count" />
-</p>
