@@ -13,10 +13,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Recent graduate from **Van Lang University**, transitioning into full-time AI/Data roles.
+- 🤖 **AI Engineer & Data Scientist** passionate about building intelligent systems.
 - 🧠 Specializing in **Large Language Models (LLMs)**, **RAG architectures**, and **Agentic Workflows**.
-- 🚀 Currently developing **NeoMind** (Enterprise RAG) and **The Oracle Pitch 3.0** (Quantitative Analysis).
-- ⚙️ Deeply interested in turning complex data into automated, intelligent solutions.
+- ⚙️ Focused on turning complex data into actionable insights and automated solutions.
 
 ---
 
